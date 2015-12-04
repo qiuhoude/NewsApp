@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<declare-styleable name="PointPageIndicator">
+    <attr name="selectImg" format="reference"/>
+    <attr name="unselectImg" format="reference"/>
+    <attr name="tab_space" format="dimension"/>
+    <attr name="tab_width" format="dimension"/>
+    <attr name="tab_height" format="dimension"/>
+</declare-styleable>
+</resources>
